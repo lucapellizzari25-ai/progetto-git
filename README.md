@@ -1,0 +1,2 @@
+# progetto-git
+Esercizio Verifica
